@@ -1,2 +1,2 @@
 # spring-boot-restful-api
-Spring Boot Blog Application.
+Spring Boot Blog Application creating by scratch.
